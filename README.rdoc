@@ -41,7 +41,7 @@ link:files/vendor/rails/actionpack/README.html.
 the following resources handy:
 
 * The Getting Started Guide: http://guides.rubyonrails.org/getting_started.html
-* Ruby on Rails Tutorial Book: http://www.railstutorial.org/
+* Ruby on Rails Tutorial Book: http://www.railstutorial.com/
 
 
 == Debugging Rails
