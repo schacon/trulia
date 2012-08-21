@@ -2,4 +2,4 @@
 
 require ::File.expand_path('../config/environment',  __FILE__)
 run Testing::Application
-run Testing::Application
+BOOM BOOM BOOM
